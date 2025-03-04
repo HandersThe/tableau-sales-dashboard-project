@@ -3,6 +3,8 @@
 Proyek ini mendemonstrasikan solusi dashboard dengan menggunakan Tableau.
 
 ---
+![Sales Dashboard](image/sales-dashboard.png)
+
 ## Introduction
 Kisah pengguna ini menguraikan spesifikasi untuk membangun dua dashboard menggunakan Tableau untuk membantu para pemangku kepentingan, termasuk manajer penjualan dan eksekutif untuk menganalisis kinerja penjualan dan pelanggan. 
 
